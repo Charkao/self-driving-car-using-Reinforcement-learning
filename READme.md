@@ -21,7 +21,7 @@ __2. The software:__
 * Python + Numpy + OpenCV  + Tensorflow on the Raspberry Pi
 * Serial protocol for Arduino <-> Raspberry Pi
 
-![Optional Text](figures/im13.JPG)
+![Optional Text](figures/im13.jpg)
 
 __3. Training the robot :__
 
@@ -38,7 +38,6 @@ allowed during the episode.
 
   ![Optional Text](figures/im14.JPG)
   
-
 
   ![Optional Text](figures/im15.JPG)
 
