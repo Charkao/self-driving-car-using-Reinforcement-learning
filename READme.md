@@ -1,12 +1,10 @@
 # self-driving-car-using-Reinforcement-learning
 The main objective of this project is to design and implement an autonomous robot that learns to walk by itself using reinforcement learning. This is done by using artificial intelligence and image processing algorithms that allow the robot to move as efficiently as possible.
 
+ * The video that summarizes our training of the agent  : https://www.youtube.com/watch?v=oV3WjV6yMHo
 
-{{< youtube id="oV3WjV6yMHo" autoplay="true" color="white" yt_start="12" yt_end="24">}}  
+ * This is a video of our simulation during the training : https://www.youtube.com/watch?v=lzkVCkYkSlo
 
---
-
-{{< youtube id="lzkVCkYkSlo" autoplay="true" color="white" yt_start="12" yt_end="24">}}
 
  __1. The hardware:__
 
