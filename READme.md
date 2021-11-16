@@ -39,7 +39,7 @@ allowed during the episode.
   ![Optional Text](figures/im14.JPG)
   
 
-  ![Optional Text](figures/im15.JPG)
+  ![Optional Text](figures/im15.jpg)
 
   __3.2 Training :__
 
@@ -47,5 +47,5 @@ allowed during the episode.
 
   During training, we observed quite satisfactory results, the robot starts little by little to know its optimal path that will maximize its score (straight line to the goal). And at the end of 100 episodes, the training was finally successful and we managed to train our robot. And this is clearly visible in the curves below, we have a score that increases throughout the training, and our cost function decreases and reaches 0 at the end of the of training.
  
-![Optional Text](figures/im16.JPG)
+![Optional Text](figures/im16.jpg)
 
